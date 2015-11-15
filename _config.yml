@@ -1,0 +1,23 @@
+name: spinksa
+favicon: null
+layout_spectrum: 0.9186036693863571
+typography_spectrum: 0.9296243174467236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7340908783953637
+  lightness: 0.510934887919575
+  saturation: 0.42435679375194013
+  rhythmicContrast: 0.14733062637969851
+purpose: []
