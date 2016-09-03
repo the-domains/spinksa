@@ -1,65 +1,67 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
-author: []
-datePublished: '2015-11-15T23:58:00.570Z'
-dateModified: '2015-11-15T23:57:54.281Z'
+datePublished: '2016-08-31T14:07:28.991Z'
 sourcePath: _posts/2015-11-15-getting-started-on-the-grid.md
-published: true
 inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-31T14:07:28.157Z'
+title: Getting Started on The Grid
+publisher: {}
+description: Test
+inLanguage: null
+inNav: false
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Getting Started on The Grid
+![Test](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e90a2730a5053b42a40fab331e940db36af0d838.gif)
+![HI](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2d684127c0109d901f9816642d7d099f/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616ace29033602f2d9baec3%2Ffile-B9ogQ0DNxU.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e2dfd42e912e6180f770d3b9992a5e7/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616ad359033602f2d9baec5%2Ffile-mCAgjRD5iA.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0484bed59a05d102a03e67f3ce8fba22/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616ada5c6979115d6ba7217%2Ffile-6p3VpVMHQE.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1fd168ce41aff820e815b307d06295e3/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616adbbc6979115d6ba7218%2Ffile-FQzq15gRwO.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e6718193088e854f698fd9509c27bc09f62e3d99.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ceb12d93d2ecdb2a7dbd1a062cb63a87/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616adf5c6979115d6ba721d%2Ffile-98tflbKdDO.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/90172b623a5bc30929e2d579027c6b80/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616af689033602f2d9baee6%2Ffile-Y0Br9u0Ni6.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9e2f662425852d1a9ea5da55e8a19e48/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616afc3c6979115d6ba7237%2Ffile-pbVlV09APH.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f5729823907dcc3e6eb6e4f71fbd6fd3/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F5616afe9c6979115d6ba723b%2Ffile-g2L5ZjQ5LU.gif)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/81aa7f7c67e867be623c9b40b6e7c24e/noop.gif?input=https%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F561671909033600ce5c51f6c%2Ffile-Obcq852pFY.gif)
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
+Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running.
 
 ## Creating a Site
 
 From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
 
 The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
 
-**When will your site be live?** After going through the site creation process, your site won't actually be "live" until you start adding posts and publishing content. 
+**When will your site be live?** After going through the site creation process, your site won't actually be "live" until you start adding posts and publishing content.
 
 ## Adding Your Content
 
 There are a few ways to add content to your sites.
 
 1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
 
 **Note**: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
 
 1. **Share via the Post Editor.** The plus icon at the top right of the screen will take you into The Grid post editor where you can add photos and write short and long form articles.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ad359033602f2d9baec5/file-mCAgjRD5iA.gif)
 
 ### Editing a Post
 
-When you create a post, it will appear on your drafts dashboard as a post. Clicking the pencil icon on an individual post will allow you to edit it. 
+When you create a post, it will appear on your drafts dashboard as a post. Clicking the pencil icon on an individual post will allow you to edit it.
 
 **Note:** Mobile apps do not yet support editing posts. This can only be done in The Grid web app.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ada5c6979115d6ba7217/file-6p3VpVMHQE.gif)
 
 Once you're in the post editor, you can start typing to add text, or click the "+" to add an image. Highlight your text for formatting options (bold, italic, titles).
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616adbbc6979115d6ba7218/file-FQzq15gRwO.gif)
 
 #### What is the "i" icon for?
 
-You can add handy post information by clicking the "i" icon in the upper right corner. By default, the first H1 Heading in your post will be the title that shows up here, and will also be what shows up on the post's cover in your site's home page. 
+You can add handy post information by clicking the "i" icon in the upper right corner. By default, the first H1 Heading in your post will be the title that shows up here, and will also be what shows up on the post's cover in your site's home page.
 
 You can choose from one of four post types...
 
@@ -67,14 +69,12 @@ You can choose from one of four post types...
 2. **Blurb:** A "cover" post that does not have a link. Blurbs will only show up on the main feed/home page of your site and will not link out anywhere.
 3. **Post:** A long form post that will have it's own sub-page linked from the main feed/home page on your site, but will not show up in the navigation of your site.
 4. **Page:** A long form post that will both have it's own sub-page and also appear in the navigation of your site.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616add19033602f2d9baecb/file-FyNtzzsWaU.gif)
 
 **Note**: After you're done editing, you'll need to publish your post to a specific site before the options you selected take effect.
 
 #### Adding Image Details
 
 Clicking on an image within post will bring you to the Media Details view where you can add a title, caption, source URL, and more.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616adf5c6979115d6ba721d/file-98tflbKdDO.gif)
 
 Posts will be auto saved as you type. To close the post editor click the "X" button on the top left.
 
@@ -82,10 +82,9 @@ Posts will be auto saved as you type. To close the post editor click the "X" but
 
 Once you've got a draft sitting on your Post Dashboard, click it to open the publish/delete menu. You'll see a blue "@" icon appear on the right of the screen and a red trash icon appear on the left.
 
-Clicking "@" will allow you to select an existing site to publish your post to, or create a brand new site. 
+Clicking "@" will allow you to select an existing site to publish your post to, or create a brand new site.
 
 Clicking the trash icon will delete your post from your drafts, as well as any site that it's already been published to.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616af689033602f2d9baee6/file-Y0Br9u0Ni6.gif)
 
 ## Managing Your Sites
 
@@ -93,15 +92,14 @@ To manage, edit, and view your site, select your site from the site switcher men
 
 1. **Content:** Content that has been published to your site. Once site content is moved from drafts to a specific site, it will no longer be shown in your "drafts" dashboard.
 2. **Info:** A place to edit your site info (Name, URL, Google Analytics ID).
-3. **Design:** Where you'll go to modify the layout, typography, and color of your site. 
+3. **Design:** Where you'll go to modify the layout, typography, and color of your site.
 4. **View Site:** This link will take you to your real, live site on the real, live Internet!
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616afc3c6979115d6ba7237/file-pbVlV09APH.gif)
 
 ### Changing the Design of Your Site
 
-Now that you have content on your site, The Grid really starts to work its magic. Our AI will continually adjust your site design based on the content you post. The Grid is adaptive, and will update your site's design as you adjust design parameters. 
+Now that you have content on your site, The Grid really starts to work its magic. Our AI will continually adjust your site design based on the content you post. The Grid is adaptive, and will update your site's design as you adjust design parameters.
 
-When in the Design section of your site, start by uploading a brand image - this will establish a color palette for your site and allow The Grid's AI to make adjustments that align with the image you choose. 
+When in the Design section of your site, start by uploading a brand image - this will establish a color palette for your site and allow The Grid's AI to make adjustments that align with the image you choose.
 
 Your site should be unique. That's why you don't see options to choose from. Instead you see spectrums of possibility. Slide them around and watch how the Grid evolves your design accordingly.
 
@@ -112,18 +110,16 @@ Your site should be unique. That's why you don't see options to choose from. Ins
 Occasionally The Grid will apply image filters to conform your content to your color palette.
 
 After changes have been selected and saved, you'll get a notification via The Grid chrome extension that your site redesign is complete.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616afe9c6979115d6ba723b/file-g2L5ZjQ5LU.gif)
 
 ## Install The Grid browser extension
 
-The Grid Chrome extension makes it easy to share content to your Grid sites from anywhere on the web. Once installed, all you have to do is right click on a site, image, link, or article, and click the "Share". 
+The Grid Chrome extension makes it easy to share content to your Grid sites from anywhere on the web. Once installed, all you have to do is right click on a site, image, link, or article, and click the "Share".
 
 You'll also get real time notifications from The Grid's AI designer when your site design options are ready for review, or the new content you shared to a site has been published.
 
-**To install the The Grid Chrome extension, head on over here**: http://thegr.id/1IRWuyn. 
+**To install the The Grid Chrome extension, head on over here**: http://thegr.id/1IRWuyn.
 
 After installation, click the Grid logo at the top right of your browser to open the extension and be sure to login using the same social media identity you connected to your Grid account earlier in the activation process. E.g. If you used Twitter there, make sure to use Twitter here.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/561671909033600ce5c51f6c/file-Obcq852pFY.gif)
 
 **NOTE**: The Grid web app is optimized for Google Chrome, at least during beta. We can't promise optimal performance in other browsers at the moment, but will be working towards addressing this soon.
 
@@ -141,9 +137,9 @@ To quickly share content from your mobile phone, install our iPhone and Android 
 
 ## Let us know how it's going!
 
-We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn't working as you'd expect, or you have an idea of something to add, there are a few ways to get in touch with us: 
+We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn't working as you'd expect, or you have an idea of something to add, there are a few ways to get in touch with us:
 
 * Send us a note via the "Give Feedback" button in the bottom right corner of the web app. On mobile, you can find the link from your "Profile" screen.
 * Email us at feedback@thegrid.io
-* Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development- 
+* Check out our Public Development Board for the latest info on known issues and planned features, and to submit ideas of your own: https://trello.com/b/DsYWip1U/the-grid-development-
 * Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
